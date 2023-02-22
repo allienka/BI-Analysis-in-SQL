@@ -1,4 +1,4 @@
-# BI-Analysis-in-SQL
+# BI-Analysis-with-SQL
 aim of this project is to work with purchased data, build a derived table, and calculate KPIs<br>
 based on the datasets provided
 
