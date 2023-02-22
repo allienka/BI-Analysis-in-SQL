@@ -1,4 +1,4 @@
-#BI-Analysis-in-SQL
+# BI-Analysis-in-SQL
 aim of this project is to work with purchased data, build a derived table, and calculate KPIs<br>
 based on the datasets provided
 
@@ -27,3 +27,13 @@ Languages and Technologies used:<br>
 XAMPP or MySQL Workbench<br>
 Python 3<br>
 MySQL<br>
+
+Steps to run the project on your machine<br>
+
+Download and install Python (instructions here)<br>
+Install the libraries needed (pandas, numpy, os.path, connection,sqlalchemy) in vscode download python get-pip.py and then pip run 'libraryname'<br>
+Download and install XAMPP or MYSQLWorkbench (XAMPP WORKBENCH)<br>
+Install Anaconda and launch Jupyter Notebook
+
+
+
