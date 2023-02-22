@@ -31,7 +31,7 @@ Languages and Technologies used:<br>
 
 Steps to run the project on your machine<br>
 
-- Download and install Python (instructions here)<br>
+- Download and install Python ([instructions here](https://www.geeksforgeeks.org/how-to-install-python-on-windows/))<br>
 - Install the libraries needed (pandas, numpy, os.path, connection,sqlalchemy) in vscode download python get-pip.py and then pip run 'libraryname'<br>
 - Download and install XAMPP or MYSQLWorkbench (XAMPP WORKBENCH)<br>
 - Install Anaconda and launch Jupyter Notebook<br>
